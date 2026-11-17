@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+*.converting.mp4
+bin/ffmpeg.exe
+bin/ffprobe.exe
+downloads/
